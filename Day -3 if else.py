@@ -32,3 +32,4 @@ if 1<a and 50>a:
     print("in range")
 else:
     print("not in range")
+    
