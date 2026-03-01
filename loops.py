@@ -43,5 +43,9 @@ num=int(input("enter num"))
 for i in range(1,11):
     print(num,"x",i,"=",num*i)
     
-
-    asewffrghjuiikjuhgfds
+#check prime number
+num=int(input("enter num"))
+count=0
+for i in range(1,num+1):
+    if num%2==0:
+        print
