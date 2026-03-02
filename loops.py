@@ -1,4 +1,4 @@
-#loops repeate a block of code multiple times
+ #loops repeate a block of code multiple times
 #types of loops 
 #for loop :when you know how many times to repeate
 #while loop:
@@ -42,10 +42,14 @@ print("sum=",sum)
 num=int(input("enter num"))
 for i in range(1,11):
     print(num,"x",i,"=",num*i)
-    
+   
 #check prime number
 num=int(input("enter num"))
 count=0
 for i in range(1,num+1):
-    if num%2==0:
-        print
+    if num%i==0:
+        count+=1
+if count==2:
+    print("prime num")
+else:
+    print("no prime num")
