@@ -1,7 +1,8 @@
+
  #loops repeate a block of code multiple times
 #types of loops 
 #for loop :when you know how many times to repeate
-#while loop:
+#while loop: it runs the code as long as the condition is true
 
 
 # print number from 0-10
@@ -53,3 +54,21 @@ if count==2:
     print("prime num")
 else:
     print("no prime num")
+
+#while 
+i=1
+while i<=5:
+    print(i)
+    i+=1
+
+#print 5-1 using while lop
+i=5
+while i>=1:
+    print(i)
+    i-=1
+#print even num 1-10
+i=1
+while i<=10:
+    if i%2==0:
+        print ("even nums are:",i)
+    i+=1
