@@ -5,7 +5,6 @@ if num > 0:
 else:
     print("negative")
 
-
 # check even odd
 num=int(input("enter num"))
 if num%2==0:
