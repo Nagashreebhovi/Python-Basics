@@ -106,7 +106,7 @@ num=input("enter num:")
 res=pol(num)
 print(res)
 
-#some user defined functions
+#some user defined functions are
 name="nagashree"
 print("lenght:",len(name))
 
