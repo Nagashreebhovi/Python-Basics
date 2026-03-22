@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am a student at Dayananda sagar college of Engineering, Banglore<br><br>Python learner ,DSA beginner
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/queen_nagashree) 
 
