@@ -114,7 +114,7 @@ print("lenght:",len(name))
 num=[10,20,10,25,89]
 print("max value:",max(num))
 print("min value:",min(num))
-
+    
 #round num
 num=20.8
 print(round(num))
